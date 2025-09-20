@@ -72,3 +72,11 @@ For Each node As TreeNodeAdv In Me.treeViewAdv1.Nodes(0).Nodes
     node.LeftImageIndices = New Integer() { -1 }
 Next node
 ```
+
+![Left aligned image](LeftALignedImage.png)
+**Figure 1:** Images aligned on the left side of the TreeNodeAdv
+
+![Left aligned image](LeftALignedImage.png)
+**Figure 2:** Images aligned right side of the TreeNodeAdv
+
+Take a moment to peruse the [WinForms TreeViewAdv -  ImageCustomization](https://help.syncfusion.com/windowsforms/treeview/treenodeadvcustomization#image-customization) documentation, to learn more about image customization with examples.
